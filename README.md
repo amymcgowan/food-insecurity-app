@@ -5,10 +5,11 @@ View on [...our deployed site](#)
 
 ## About the Project
 
-...Description of project 
+...Description of project
 
 ## Team Coding Standards
 
+(add link to document)
 
 ## Team Git Process
 
