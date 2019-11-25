@@ -20,7 +20,7 @@
     <header>
       <section>
         <!-- Navbar Section -->
-        <nav id="navigation" class="navbar navbar-expand-lg">
+        <!-- <nav id="navigation" class="navbar navbar-expand-lg">
           <a class="navbar-brand" href="index.html">Site Name??</a>
         
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
@@ -29,38 +29,106 @@
           </button>
         
           <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav nav-items-container">
+            <ul class="navbar-nav justify-content-end nav-items-container">
               <li class="nav-item">
-                <a class="nav-link" href="not-alone.html">YOU'RE NOT ALONE<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="html/not-alone.html">LEARN<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="find-help.html">FIND PEOPLE THAT HELP</a>
+                <a class="nav-link" href="html/find-help.html">FIND HELP</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="food-tips.html">GET FOOD TIPS</a>
+                <a class="nav-link" href="html/food-tips.html">FOOD TIPS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="help-others.html">HELP OTHERS</a>
+                <a class="nav-link" href="html/help-others.html">HELP OTHERS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="html/about.html">ABOUT</a>
               </li>
             </ul>
           </div>
         
-        </nav>
+        </nav> -->
+
+            <!-- Navbar Section -->
+            <nav class="navbar navbar-expand-md sticky-top">
+              <div class="container">
+                <a class="navbar-brand" href="#">SITE NAME</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav"
+                  aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
+                </button>
+                
+                <!-- Nav links -->
+                <div class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav ml-auto">
+                    <li class="nav-item mx-2">
+                      <a class="nav-link" href="html/not-alone.html">LEARN<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item mx-2">
+                      <a class="nav-link" href="html/find-help.html">FIND HELP</a>
+                    </li>
+                    <li class="nav-item mx-2">
+                      <a class="nav-link" href="html/food-tips.html">FOOD TIPS</a>
+                    </li>
+                    <li class="nav-item mx-2">
+                      <a class="nav-link" href="html/help-others.html">HELP OTHERS</a>
+                    </li>
+                    <li class="nav-item mx-2">
+                      <a class="nav-link" href="html/about.html">ABOUT</a>
+                    </li>
+                  </ul>
+                </div>
+                <!-- End nav links -->
+              </div>
+            </nav>
         <!-- Navbar Section END -->
       </section>
     </header>
 
     <main>
       <section>
-        <!-- top image -->
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 red">
+              IMAGE HERE
+            </div>
+            <div class="col-md-6 orange">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla velit quam odit deserunt sint qui.</p>
+            </div>
+          </div> <!-- END row -->
+          <div class="row">
+            <div class="col-12 yellow">
+              <p>"I want to know I am not alone."</p>
+            </div>
+            <div class="col-12 green">
+              <p>"I want to find real people who can help me."</p>
+            </div>
+            <div class="col-12 blue">
+              <p>"I want to know how I can make the food I have stretch further."</p>
+            </div>
+          </div> <!-- END row -->
+          <div class="row">
+            <div class="col-12 purple">
+              <p>"I want to know how I can help students who are hungry."</p>
+            </div>            
+            <div class="col-12 indigo">
+              <blockquote>I have the audacity to believe that people everywhere can have three meals a day for their bodies, education and culture
+              for the minds and dignity, equality and freedom for their spirits.”
+              Martin Luther King, Jr.</blockquote>
+            </div> 
+          </div> <!-- END row -->
+        </div> <!-- END container -->
       </section>
+
     </main>
 
-    <footer>
-
+    <footer class="container">
+      <div class="row justify-content-center">
+        <div class="col-12">
+          <p class="text-center">&copy 2019</p>        
+        </div>
+      </div>
     </footer>
 
     <!-- CDNs necessary for Bootstrap to work -->
@@ -71,4 +139,4 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
       integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </body>
-  </html>
+</html>
