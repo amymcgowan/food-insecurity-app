@@ -1,6 +1,11 @@
 /* CSS for elements common to all pages (e.g., navbar, footer, and possibly more */
-
+:root {
+    --main-color: #17C698;
+    --dark-color: #000559;
+    --lt-gray: #EBEBF2;
+    --dk-gray: #3F4443;
+}
 
 .header {
-    background-color: #17C698;
+    background-color: var(--main-color);
 }
