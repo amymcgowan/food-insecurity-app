@@ -6,6 +6,19 @@
     --dk-gray: #3F4443;
 }
 
+h1 {
+    color: white;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h2,
+p {
+    color: var(--dark-color);
+}
+
 .header {
     background-color: var(--main-color);
 }
