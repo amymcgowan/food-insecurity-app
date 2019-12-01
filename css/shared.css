@@ -1,1 +1,6 @@
 /* CSS for elements common to all pages (e.g., navbar, footer, and possibly more */
+
+
+.header {
+    background-color: #17C698;
+}
