@@ -1,5 +1,18 @@
 /* CSS for the main page (index.html) */
+:root {
+    --main-color: #17C698;
+    --dark-color: #000559;
+    --lt-gray: #EBEBF2;
+    --dk-gray: #3F4443;
+}
 
+.content {
+    background-color: var(--main-color);
+}
+
+.content-text {
+    background-color: #fff;
+}
 
 /* Andrea's experimental area - will eventually delete */
 /* Sherry, Feel free to comment anything out */
