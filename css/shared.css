@@ -1,1 +1,30 @@
 /* CSS for elements common to all pages (e.g., navbar, footer, and possibly more */
+:root {
+    --main-color: #17C698;
+    --dark-color: #000559;
+    --lt-gray: #EBEBF2;
+    --dk-gray: #3F4443;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h2,
+p {
+    color: var(--dark-color);
+}
+
+.header {
+    background-color: var(--main-color);
+    text-align: center;
+}
+
+hr {
+    width: 30%;
+    border-bottom: 2px solid white;
+}
