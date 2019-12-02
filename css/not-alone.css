@@ -18,3 +18,7 @@ h2 {
     font-weight: bold;
     font-size: 40px;
 }
+
+.quote {
+    background-color: var(--main-color);
+}
