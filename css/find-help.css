@@ -9,3 +9,8 @@
     font-size: 35px;
     color: var(--dark-color);
 }
+
+.content {
+    background-color: var(--main-color);
+    height: 100%;
+}
