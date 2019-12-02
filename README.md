@@ -1,5 +1,5 @@
 
-# Food Insecurity App --- NAME TBD
+# BREAD BEACON
 
 View on [...our deployed site](#)
 
@@ -27,9 +27,9 @@ Amy McGowan
 * GitHub: [amymcgowan](https://github.com/amymcgowan)
 
 Andrea Martz
-* Research Co-Lead, HTML Lead, CSS Associate, Accessibility
-* Portfolio: [url](#)
-* GitHub: [username](https://github.com/username)
+* Research Co-Lead, HTML Co-Lead, QA and Accessibility, and CSS Associate
+* Portfolio: [andreamartz.dev](https://andreamartz.dev/)
+* GitHub: [andreamartz](https://github.com/andreamartz)
 
 Sherry Nance
 * CSS Lead, Visual Design Associate
@@ -37,7 +37,7 @@ Sherry Nance
 * GitHub: [username](https://github.com/username)
 
 Aiko Takemura
-* Research Co-Lead
+* Research Co-Lead, HTML Co-Lead, QA and Accessibility
 * Portfolio: [url](#)
 * GitHub: [username](https://github.com/username)
 
