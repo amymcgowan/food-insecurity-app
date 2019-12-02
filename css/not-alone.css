@@ -5,6 +5,11 @@
     --dk-gray: #3F4443;
 }
 
+.fa-seedling {
+    font-size: 35px;
+    color: var(--dark-color);
+}
+
 .chart {
     background-color: var(--main-color);
 }
