@@ -1,1 +1,15 @@
+:root {
+    --main-color: #17C698;
+    --dark-color: #000559;
+    --lt-gray: #EBEBF2;
+    --dk-gray: #3F4443;
+}
 
+.fa-hand-holding-heart {
+    font-size: 35px;
+    color: var(--dark-color);
+}
+
+li {
+    list-style-type: none;
+}
