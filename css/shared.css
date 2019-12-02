@@ -51,3 +51,8 @@ hr {
 footer {
     background-color: var(--main-color);
 }
+
+.content {
+    background-color: var(--main-color);
+    height: 100%;
+}
