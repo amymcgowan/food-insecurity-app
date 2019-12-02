@@ -1,5 +1,10 @@
 /* CSS for the food-tips page (food-tips.html) */
-
+:root {
+    --main-color: #17C698;
+    --dark-color: #000559;
+    --lt-gray: #EBEBF2;
+    --dk-gray: #3F4443;
+}
 
 /* Andrea's experimental area - will eventually delete */
 /* Feel free to comment anything out */
