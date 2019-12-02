@@ -1,1 +1,11 @@
+:root {
+    --main-color: #17C698;
+    --dark-color: #000559;
+    --lt-gray: #EBEBF2;
+    --dk-gray: #3F4443;
+}
 
+.fa-hands-helping {
+    font-size: 35px;
+    color: var(--dark-color);
+}
