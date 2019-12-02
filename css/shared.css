@@ -15,8 +15,7 @@ header a {
     color: var(--dark-color);
 }
 
-i .fas {
-    background-color: var(--main-color);
+.fa-bars {    
     color: var(--dark-color);
 }
 
