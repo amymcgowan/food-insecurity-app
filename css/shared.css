@@ -6,6 +6,20 @@
     --dk-gray: #3F4443;
 }
 
+header {
+    background-color: var(--main-color);
+    color: var(--dark-color);
+}
+
+header a {
+    color: var(--dark-color);
+}
+
+i .fas {
+    background-color: var(--main-color);
+    color: var(--dark-color);
+}
+
 h1 {
     color: white;
 }
@@ -27,4 +41,8 @@ p {
 hr {
     width: 30%;
     border-bottom: 2px solid white;
+}
+
+footer {
+    background-color: var(--main-color);
 }
