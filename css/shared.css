@@ -70,3 +70,25 @@ footer {
     color: var(--dark-color);
     text-decoration: underline;
 }
+
+.cta-button { 
+    color: var(--dark-color);
+    background-color: #FFFFFF; 
+    border-color: var(--dark-color);
+    box-shadow: 0px 2px 2px 0px #888888;
+    text-transform: uppercase; 
+  } 
+   
+  .cta-button:hover, 
+  .cta-button:focus, 
+  .cta-button:active, 
+  .cta-button.active, 
+  .open .dropdown-toggle.cta-button { 
+    color: var(--dark-color); 
+    background-color: var(--main-color);
+    border-color: var(--dark-color); 
+  } 
+
+p {
+    font-size: 18px;
+}
