@@ -10,12 +10,3 @@
     color: var(--dark-color);
 }
 
-.content {
-    background-color: var(--main-color);
-    height: 100%;
-}
-
-.content a {
-    color: var(--dark-color);
-    text-decoration: underline;
-}
