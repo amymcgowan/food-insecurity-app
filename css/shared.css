@@ -1,3 +1,10 @@
+/* ANDREA */
+
+img {
+  object-fit: contain;
+  width: 100%;
+}
+
 /* CSS for elements common to all pages (e.g., navbar, footer, and possibly more */
 :root {
     --main-color: #17C698;
