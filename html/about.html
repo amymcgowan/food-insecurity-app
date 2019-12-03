@@ -11,7 +11,9 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <!-- Team CSS for home page -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css"
+    integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    <!-- Team CSS for home page -->
   <link rel="stylesheet" href="../css/shared.css">
   <link rel="stylesheet" href="../css/about.css">
 
@@ -56,11 +58,17 @@
   </header>
 
   <main>
-    <section class="container">
-      <div class="row justify-content-center border">
-        <div class="col-8 border">
-          <h1 class="text-center">About Bread Beacon</h1>
-          <br>
+    <section class="container-fluid">
+      <div class="row justify-content-center header">
+        <div class="col-8">
+          <h1 class="text-center">ABOUT</h1>
+          <hr>
+        </div>
+      </div>
+    </section>
+    <section class="container about">
+      <div class="row justify-content-center">
+        <div class="col-8">
           <p class="text-center">Bread Beacon aims to provide an easy way for college students to navigate all the
             resources
             available to access healthy food and find connection with helpful local people.</p>
@@ -73,23 +81,23 @@
     </section>
 
     <!-- Formspree contact form starts here  -->
-    <section class="container">
-      <div class="row justify-content-center border">
-        <div class="col-8 border flex-column">
+    <section class="container form">
+      <div class="row justify-content-center">
+        <div class="col-8">
           <h2 class="text-center">Contact Us</h2>
           <form action="https://formspree.io/moqvwpwr" method="POST">
             <div><label for="name">
-                Your name:
+                Your name:</label>
                 <input id="name" type="text" name="name">
-              </label></div>
+              </div>
             <div><label for="email">
-                Your E-mail:
+                Your E-mail:</label>
                 <input id="email" type="email" name="_replyto" required>
-              </label></div>
+              </div>
             <div><label for="message">
-                Your message:
+                Your message:</label>
                 <textarea id="message" name="message"></textarea>
-              </label></div>
+              </div>
             <div><button type="submit">Send</button></div>
           </form>
         </div>
@@ -98,10 +106,10 @@
 
   </main>
 
-  <footer class="container">
+  <footer class="container-fluid">
     <div class="row justify-content-center">
       <div class="col-12">
-        <p class="text-center">&copy 2019</p>
+        <p class="text-center"><i class="far fa-copyright"></i> 2019</p>
       </div>
     </div>
   </footer>
