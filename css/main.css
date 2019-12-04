@@ -6,13 +6,36 @@
     --dk-gray: #3F4443;
 }
 
-.content {
+.intro {
+    font-size: 20px;
+    color: var(--dark-color);  
+}
+
+.home-link {
     background-color: var(--main-color);
 }
 
-.content-text {
+
+.home-link-text {
     background-color: #fff;
+    font-size: 20px;
+    color: var(--dark-color);    
+    border-color: var(--dark-color);
+    box-shadow: 0px 4px 4px 0px #888888;
+    padding-top: 18px;
+    padding-bottom: 18px;
 }
+
+.home-link-text:hover, 
+.home-link-text:focus, 
+.home-link-text:active, 
+.home-link-text.active, 
+.open .dropdown-toggle.home-link-text { 
+  color: var(--dark-color); 
+  background-color: var(--lt-gray);
+  border-color: var(--dark-color); 
+  text-decoration: none;
+} 
 
 /* Andrea's experimental area - will eventually delete */
 /* Sherry, Feel free to comment anything out */
