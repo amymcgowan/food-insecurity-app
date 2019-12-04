@@ -5,6 +5,14 @@ img {
   width: 100%;
 }
 
+#navigation {
+  background-color: var(--main-color);
+}
+
+body {
+  padding-top: 3.5rem;
+}
+
 /* CSS for elements common to all pages (e.g., navbar, footer, and possibly more */
 :root {
     --main-color: #17C698;
