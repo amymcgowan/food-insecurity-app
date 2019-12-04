@@ -15,8 +15,16 @@
     width: 75%;
 }
 
+.source {
+    font-size: 12px;
+}
+
 span {
     color: white;
+}
+
+.stat-number {
+    font-style: italic;
 }
 
 h2 {
