@@ -35,14 +35,6 @@ header a:hover {
     color: #ffffff;
 }
 
-#navigation {
-  background-color: var(--main-color);
-}
-
-body {
-  padding-top: 3.5rem;
-}
-
 h1 {
     color: white;
 }
