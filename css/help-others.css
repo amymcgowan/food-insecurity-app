@@ -14,4 +14,5 @@ li {
     list-style-type: none;
     font-size: 18px;
     color: var(--dark-color);
+    padding-bottom: 10px;
 }
