@@ -15,3 +15,7 @@ li {
     color: var(--dark-color);
     padding-bottom: 10px;
 }
+
+.headline {
+    font-weight: bold;
+}

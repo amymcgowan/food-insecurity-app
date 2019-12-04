@@ -10,3 +10,6 @@
     color: var(--dark-color);
 }
 
+.headline {
+    font-weight: bold;
+}
