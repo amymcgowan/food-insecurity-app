@@ -58,11 +58,17 @@ p {
 .page-title {
     color: #ffffff;
     font-size: 35px;
+    padding-bottom: 10px;
 }
 
 hr {
     width: 30%;
     border-bottom: 2px solid white;
+}
+
+.quote {
+    text-align: center;
+    font-size: 20px;
 }
 
 footer {
