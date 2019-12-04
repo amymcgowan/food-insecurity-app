@@ -52,10 +52,12 @@ p {
     background-color: var(--main-color);
     text-align: center;
     padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
-.header h2 {
+.page-title {
     color: #ffffff;
+    font-size: 35px;
 }
 
 hr {
@@ -65,6 +67,7 @@ hr {
 
 footer {
     background-color: var(--main-color);
+    padding-top: 10px;
 }
 
 .content {
@@ -95,6 +98,10 @@ footer {
     border-color: var(--dark-color);
     text-decoration: none;
   } 
+
+  .cta-button-container {
+      margin-bottom: 20px;
+  }
 
 p {
     font-size: 18px;

@@ -12,6 +12,7 @@
 
 .chart {
     background-color: var(--main-color);
+    width: 75%;
 }
 
 span {
@@ -26,5 +27,6 @@ h2 {
 
 .quote {
     background-color: var(--main-color);
+    margin-bottom: 20px;
 }
 
