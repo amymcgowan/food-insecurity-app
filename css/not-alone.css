@@ -12,7 +12,6 @@
 
 .chart {
     background-color: var(--main-color);
-    width: 75%;
 }
 
 span {
@@ -25,5 +24,7 @@ h2 {
     font-size: 40px;
 }
 
-
+.quote {
+    background-color: var(--main-color);
+}
 
