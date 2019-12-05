@@ -9,4 +9,7 @@
     font-size: 35px;
     color: var(--dark-color);
 }
-
+.message p {
+    font-size: 22px;
+    text-align: center;
+}

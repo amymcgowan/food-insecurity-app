@@ -26,5 +26,10 @@ h2 {
 
 .quote {
     background-color: var(--main-color);
+    margin-bottom: 10px;
+}
+
+.quote p {
+    font-size: 22px;
 }
 
