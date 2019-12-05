@@ -19,6 +19,11 @@
     width: 100%;
 }
 
+.meal-links p {
+    font-size: 30px;
+    text-align: center;
+}
+
 /* Andrea's experimental area - will eventually delete */
 /* Feel free to comment anything out */
 
