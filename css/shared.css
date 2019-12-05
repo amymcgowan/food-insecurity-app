@@ -59,7 +59,6 @@ p {
 .header {
     background-color: var(--main-color);
     text-align: center;
-    padding-bottom: 20px;
 }
 
 .header h2 {
