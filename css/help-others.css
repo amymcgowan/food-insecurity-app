@@ -10,3 +10,7 @@
     color: var(--dark-color);
 }
 
+.thoughts p {
+    font-size: 22px;
+    text-align: center;
+}
