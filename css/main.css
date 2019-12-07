@@ -36,6 +36,10 @@
   text-decoration: none;
 } 
 
+blockquote {
+    text-align: center;
+}
+
 /* Andrea's experimental area - will eventually delete */
 /* Sherry, Feel free to comment anything out */
 
