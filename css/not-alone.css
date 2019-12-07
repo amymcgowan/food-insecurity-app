@@ -24,7 +24,7 @@ h2 {
     font-size: 40px;
 }
 
-.quote {
+blockquote {
     background-color: var(--main-color);
     margin-bottom: 10px;
 }
