@@ -35,6 +35,10 @@ header a:hover {
     color: #ffffff;
 }
 
+.nav-link:hover {
+    text-decoration: underline;
+}
+
 .fa-bars {    
     color: var(--dark-color);
 }
@@ -102,7 +106,7 @@ footer {
     color: var(--dark-color); 
     background-color: var(--main-color);
     border-color: var(--dark-color);
-    text-decoration: none;
+    text-decoration: underline;
   } 
 
 p {
