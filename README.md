@@ -7,6 +7,8 @@ View at [breadbeacon.netlify.com](https://breadbeacon.netlify.com/)
 
 ...Description of project
 
+
+
 ## Team Coding Standards
 
 [Team Coding Standards](coding-standards.md)
@@ -18,6 +20,10 @@ View at [breadbeacon.netlify.com](https://breadbeacon.netlify.com/)
 ## Project Wireframe
 
 The wireframe was built in Figma, which can be viewed [here](https://www.figma.com/file/8YjEBZbz8hxEmoX9fGkWri/Final-Project-MCC-Cohort-4-Team-2?node-id=14%3A2).
+
+## Team Miro Board
+
+We did most of our brainstorming, mapping, and voting on our [team Miro board](https://miro.com/welcomeonboard/XKTjJpGWyj7lHcvSugpM8y4TC28JVuseaN69ReL8n5YqQ5Ej4HPGoJMvLrWnqO4t).
 
 ## Contact
 
