@@ -13,7 +13,7 @@ Bread Beacon is simple.  Resources are split across a few different themed pages
 
 ## Video Demo
 
-A one minute demo of our project can be viewed on [YouTube](#).
+A one minute demo of our project can be viewed on [YouTube](https://www.youtube.com/watch?v=LBALXTWgg54).
 
 ## Team Coding Standards
 
