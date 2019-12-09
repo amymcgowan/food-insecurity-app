@@ -1,7 +1,7 @@
 
 # BREAD BEACON
 
-View on [...our deployed site](#)
+View at [breadbeacon.netlify.com](https://breadbeacon.netlify.com/)
 
 ## About the Project
 
@@ -17,7 +17,7 @@ View on [...our deployed site](#)
 
 ## Project Wireframe
 
-The wireframe was built in Figma, which can be viewed [here](#).
+The wireframe was built in Figma, which can be viewed [here](https://www.figma.com/file/8YjEBZbz8hxEmoX9fGkWri/Final-Project-MCC-Cohort-4-Team-2?node-id=14%3A2).
 
 ## Contact
 
