@@ -7,9 +7,9 @@ View at [breadbeacon.netlify.com](https://breadbeacon.netlify.com/)
 
 Bread Beacon has been created as a final project for Cohort 4 of the Moms Can: Code School.  We were presented with the task of creating a resource to assist college students whose basic needs are not being met.  
 
-Through the course of our research, we decided to focus on food insecure college students.  Throughout this process, we found ourselves becoming overwhelmed by the volume and variety of resources available.  After our continued research and a survery, we chose to create a website that provides food insecure college students with a simple, navigable website that presents the first steps in getting help and finding the right resources to access enough food.  
+Through the course of our research, we decided to focus on food insecure college students.  Throughout this process, we found ourselves becoming overwhelmed by the volume and variety of resources available.  After our continued research and a survey, we chose to create a website that provides food insecure college students with a simple, navigable website that presents the first steps in getting help and finding the right resources to access enough food.  
 
-Bread Beacon is simple.  Resources are split across a few different themed pages so as to limit overwhelm.  One page address the prevalence of food insecurity among college students so that users know they are not alone.  Other pages give tips on how to find real people who want to help and tips for how to make food stretch further.  Lastly, for those who are wanting to take action to help food insecure college students, some advice and direction has been provided as well.
+Bread Beacon is simple.  Resources are split across a few different themed pages to limit overwhelm.  One page address the prevalence of food insecurity among college students so that users know they are not alone.  Other pages give tips on how to find real people who want to help and tips for how to make food stretch further.  Lastly, for those who are wanting to take action to help food insecure college students, some advice and direction has been provided as well.
 
 ## Video Demo
 
