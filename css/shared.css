@@ -10,7 +10,11 @@ img {
 }
 
 body {
-  padding-top: 3.5rem;
+  padding-top: 3.5rem; 
+}
+
+#skip-to-main {
+    color: var(--dark-color);
 }
 
 /* CSS for elements common to all pages (e.g., navbar, footer, and possibly more */
@@ -18,7 +22,7 @@ body {
     --main-color: #129875;
     --dark-color: #000559;
     --lt-gray: #EBEBF2;
-    --dk-gray: #3F4443;
+    --dk-gray: #3F4443;     
 }
 
 header {
@@ -188,7 +192,7 @@ svg{
  * focus state of a button different than that of a form element. 
  */
 .bypass-block-target:focus:target,
-[tabindex="0"]:focus,
+[tabindex="0"]:focus,           
 [tabindex="1"]:focus,
 a:focus,
 button:focus,
