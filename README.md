@@ -33,12 +33,12 @@ Andrea Martz
 
 Sherry Nance
 * CSS Lead, Visual Design Associate
-* Portfolio: [url](#)
-* GitHub: [username](https://github.com/username)
+* Portfolio: [sherrynance.github.io/Portfolio](https://sherrynance.github.io/Portfolio/)
+* GitHub: [sherrynance](https://github.com/sherrynance)
 
 Aiko Takemura
 * Research Co-Lead, HTML Co-Lead, QA and Accessibility
-* Portfolio: [url](#)
-* GitHub: [username](https://github.com/username)
+* Portfolio: [aikot1125.github.io/portfolio](https://aikot1125.github.io/portfolio/)
+* GitHub: [aikot1125](https://github.com/aikot1125)
 
 
